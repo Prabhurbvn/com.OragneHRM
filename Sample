@@ -13,6 +13,12 @@ public class Demo
     Sysout(a+b+c);
     
     }
+    
+    
+    public void div(int a, int b)
+    {
+    sysout(a/b);
+    }
      
 
 }
