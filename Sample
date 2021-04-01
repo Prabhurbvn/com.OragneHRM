@@ -19,6 +19,10 @@ public class Demo
     {
     sysout(a/b);
     }
+    public void(int a, int b)
+    {
+    Sysout(a-b);
+    }
      
 
 }
